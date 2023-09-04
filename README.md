@@ -7,4 +7,4 @@ O desafio de projeto Diagramação de Classes do iPhone é baseado no [vídeo de
 
 ## Diagrama UML
 
-![Diagrama UML - iPhone](/home/nath/workspace/bootcamps/desafios-projeto-dio/diagramacao-iphone/assets/diagrama-uml-iphone.drawio.png)
+![Diagrama UML - iPhone](/assets/diagrama-uml-iphone.drawio.png)
