@@ -2,6 +2,8 @@ package iphone.aparelhoTelefonico;
 
 public class Phone implements AparelhoTelefonico {
 
+	Agenda agendaTelefonica = new Agenda();
+	
 	@Override
 	public void ligar() {
 		System.out.println("LIGANDO!!!");
